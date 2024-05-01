@@ -5,6 +5,6 @@ order:
   message: "Hey, welcome to Panorama Shop related production APIs"
   contactDetails:
     name: "Oleksa Panchuk - Product Owner"
-    email: "{cipher}oleksandr.panchuk@gmail.com"
+    email: "oleksandr.panchuk@gmail.com"
   onCallSupport:
     - (453) 392-4829
